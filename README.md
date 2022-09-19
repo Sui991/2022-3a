@@ -2,9 +2,9 @@
 homework
 # 2022-3a
 ## hello
-### u demon
-##### cringe
-###### sheeesh
+### **u demon**
+##### *cringe*
+###### ~~sheeesh~~
 
 🤓
 
