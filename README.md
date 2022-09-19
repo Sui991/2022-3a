@@ -15,4 +15,12 @@ homework
 ```python
 s = "Python syntax highlighting"
 print(s)
+python code
 ```
+```JavaScript
+javascript code
+```
+
+| 專案        | 價格   |  數量  |
+| --------   |  -------- | -------- |
+|test        |$528     |10|
